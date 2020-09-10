@@ -1,0 +1,20 @@
+<html>
+	<head>
+  <meta charset="utf-8">
+	<title>Jea boiiiii </title>
+<link rel="stylesheet" type="text/css" href="styly.css">
+</head>
+	<body background="tenor.gif">
+		<h1>Pewdipie</h1>
+    <p>adsasd</p>
+    <img src="kocicka.webp" width="400"alt="Pewdipie"/>
+		<nav>
+			<h1>Dalsi casti</h1>
+			<ol>
+				<li><a href="ukol1">ukol1</a></li>
+				<li><a href="ukol2">ukol2</a></li>
+				<li><a href="ukol3">ukol3</a></li>
+			</ol>
+		</nav>
+</body>
+</html>

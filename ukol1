@@ -1,0 +1,31 @@
+<html>
+
+	<head>
+	<title>Jea boiiiii </title>
+	<link rel="stylesheet" type="text/css" href="styly.css">
+</head>
+	<body background="tenor.gif">
+		<h1>Nadpis</h1>
+		<ul>
+			<li>asdfa1</li>
+			<li>asdfa2</li>
+			<li>asdfa3</li>
+			<li>asdfa4</li>
+		</ul>
+		<ol>
+			<li>asdfa1</li>
+			<li>asdfa2</li>
+			<li>asdfa3</li>
+			<li>asdfa4</li>
+		</ol>
+		<p>nicuuuu</p>
+		<nav>
+			<h1>Dalsi casti</h1>
+			<ol>
+				<li><a href="ukol1">ukol1</a></li>
+				<li><a href="ukol2">ukol2</a></li>
+				<li><a href="">ukol3</a></li>
+			</ol>
+		</nav>
+</body>
+</html>
